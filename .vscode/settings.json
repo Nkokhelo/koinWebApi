@@ -1,0 +1,29 @@
+{
+  "csharpextensions.privateMemberPrefix": "_",
+  "csharpextensions.useThisForCtorAssignments": false,
+  "editor.suggest.insertMode": "replace",
+  "editor.formatOnSave": true,
+  "omnisharp.autoStart": true,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.renderIndentGuides": true,
+  "omnisharp.useEditorFormattingSettings": true,
+  "csproj.enabled": false,
+  "files.exclude": {
+    "**/packages.config": true,
+    "**/bin": true,
+    "**/packages": true,
+    "**/Properties": true,
+    "**/obj": true,
+    "**/*.sln": true,
+    "**/*.user": true,
+    "**/*.csproj": true,
+    "**/*.asax": true
+  },
+  "cSpell.words": [
+    "Hmac",
+    "Owin",
+    "Sponsees",
+    "koinfast"
+  ]
+}
